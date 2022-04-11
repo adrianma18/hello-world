@@ -1,3 +1,3 @@
 # hello-world
-primer repositorio
-some description.
+primer repositorio para aprender git.
+
